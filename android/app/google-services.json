@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "156745315508",
+    "project_id": "contratame-746c8",
+    "storage_bucket": "contratame-746c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156745315508:android:c5d18d551a8423e7ecd3e1",
+        "android_client_info": {
+          "package_name": "com.sebastian.contratame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156745315508-nrdats8ci9nj5g05vfoj4tktdohikkmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sebastian.contratame",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "156745315508-apue95kbckkqiihrqo0l5hf3m94af8io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHylGdfdDHoUQfSY7fhhWpSN19G_w3rSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156745315508-apue95kbckkqiihrqo0l5hf3m94af8io.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156745315508-9lenvhj2hb1suecj48lbfchihas9hoh6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sebastian.contratame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
